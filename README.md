@@ -5,7 +5,7 @@ Note, this has been tested using [Wise Tiger WT-WA9006](http://www.wise-tiger.co
 ### Clone repo & install
 
 ```bash
-git clone "https://github.com/benlongmire/rasberrypi-wifi-usb.git"
+git clone "https://github.com/benlongmire/raspberrypi-wifi-usb.git"
 
 cd rasberrypi-wifi-usb
 
